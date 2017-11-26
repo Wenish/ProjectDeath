@@ -1,0 +1,34 @@
+groups:
+  default:
+    options:
+      default: true
+      rank: '1000'
+    permissions:
+    - modifyworld.*
+  user:
+    options:
+      rank: '900'
+  vip:
+    options:
+      rank: '800'
+  mod:
+    options:
+      rank: '100'
+  admin:
+    permissions:
+    - permissions.*
+    options:
+      rank: '2'
+  owner:
+    options:
+      rank: '1'
+      prefix: '&0(&Owner&0)&7 '
+    permissions:
+    - permissions.*
+schema-version: 1
+users:
+  6efe84d2-902a-47ac-957a-747ee06e491a:
+    group:
+    - owner
+    options:
+      name: Wenish
