@@ -1,0 +1,6 @@
+extra:
+  logoutHealth: 20.0
+  maxHealth: 20.0
+  hunger: 20
+  xp: 0.0
+  level: 0

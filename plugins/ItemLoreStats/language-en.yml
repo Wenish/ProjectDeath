@@ -1,0 +1,118 @@
+FileVersion: 771
+ErrorMessages:
+  PermissionDeniedError: '&cYou do not have permission to perform that command.'
+  IngameOnlyError: You can only run that command in-game!
+  DoesntExistError: '&4{value1} &cdoesn''t exist!'
+  PlayerNotOnlineError: '&4{value1} &cis not online!'
+  NotEnoughSpaceError: '&4{value1} &cdoes not have enough space in their inventory.'
+  IncludeItemNameError: '&cYou need to include an item name!. For example, /ils name
+    &4Hand of God'
+  EnterPlayerNameError: '&cYou need to enter a players name!'
+  ItemAlreadyExistsError: '&cThat item already exists. Please choose a different name
+    for the item.'
+  NullItemInHandError: '&cYou need to be holding an item to use that command.'
+  NullSetName: '&cYou need to enter &4list &cor &4lore&c.'
+  NoLoreError: '&cThat item doesn''t contain any lore.'
+  EnterTypeError: '&cYou need to enter a type &4Armour&c, &4Hand &cor &4All.'
+  ShiftClickDisabled: '&cShift-clicking armour is currently disabled.'
+  InventoryFull: '&4Dropping the item as your inventory is full.'
+  AddedToConfig: '&2{value1} &ahas been added to the config.'
+CustomItemMessages:
+  HoldCustomItem: '&cYou need to hold the item you want to add to the config.'
+  CustomEquipmentType: '&cYou need to enter the equipment type of the item. Either
+    &4tool &cor &4armour&c.'
+  CustomItemType: '&cYou need to enter the type of item. E.g &4Diamond Sword &cor
+    &4Gold Chestplate&c.'
+  CustomArmourType: '&cYou need to enter the type of Armour as shown; &4helmet&c,
+    &4chest&c, &4legs&c, &4boots&c.'
+ClassRequirementMessages:
+  NotRequiredClass: '&cYou are not the required class to equip that item.'
+  NotRequiredClassForItemInHand: '&cYou are not the required class to hold that item.'
+  InventoryFullOnPickup: '&4Your inventory is full and you''re not the required class
+    to hold that item.'
+LevelRequirementMessages:
+  LevelTooLow: '&cYou need to be level &2{value1} &cto equip that item.'
+  LevelTooLowForItemInHand: '&cYou need to be level &2{value1} &cto hold that item.'
+  InventoryFullOnPickup: '&4Your inventory is full and you need to be level &2{value1}
+    &4to hold that item.'
+SoulboundMessages:
+  BoundToSomeoneElse: '&cThis item is bound to &2{value1} &cand you''re unable to
+    use it.'
+  BoundToSomeoneElseForItemInHand: '&cThis item is bound to &2{value1} &cand you''''re
+    unable to hold it.'
+  InventoryFullOnPickup: '&4Your inventory is full and that item is bound to &2{value1}&4.'
+DamageMessages:
+  DamageDone: '      &dYou hit &r{defender} &dfor &6{value2} &ddamage.'
+  DamageDoneWithoutVowel: '      &dYou hit a &r{value1} &dfor &6{value2} &ddamage.'
+  DamageDoneWithVowel: '      &dYou hit an &r{value1} &dfor &6{value2} &ddamage.'
+  DamageTaken: '      &r{attacker} &dhit you for &6{value2} &ddamage.'
+  CriticalStrikeSuccess: '&aCritical Strike!'
+  EnemyCriticalStrikeSuccess: '&4{attacker} &ccrit you!'
+  DodgeSuccess: '&aDodge!'
+  EnemyDodgeSuccess: '&4{defender} &cdodged your attack!'
+  BlockSuccess: '&aBlocked!'
+  EnemyBlockSuccess: '&4{defender} &cblocked your attack!'
+  LifeStealSuccess: '&2{value1} &ahealth stolen from &2{defender}&a!'
+  EnemyLifeStealSuccess: '&4{attacker} &cstole &4{value1} &cof your health!'
+  ReflectSuccess: '&aReflected!'
+  EnemyReflectSuccess: '&4{defender} &creflected your attack!'
+  FireSuccess: '&2{defender} &aset alight!'
+  EnemyFireSuccess: '&4{attacker} &cset you on fire!'
+  IceSuccess: '&2{defender} &aslowed!'
+  EnemyIceSuccess: '&4{attacker} &cslowed you!'
+  PoisonSuccess: '&2{defender} &apoisoned!'
+  EnemyPoisonSuccess: '&4{attacker} &cpoisoned you!'
+  WitherSuccess: '&2{defender} &awithered!'
+  EnemyWitherSuccess: '&4{attacker} &cwithered you!'
+  HarmSuccess: '&2{defender} &aharmed!'
+  EnemyHarmSuccess: '&4{attacker} &charmed you!'
+  BlindSuccess: '&2{defender} &ablinded!'
+  EnemyBlindSuccess: '&4{attacker} &cblinded you!'
+SpellMessages:
+  CastSpell:
+    ItemInHand: '&eRight-click to cast'
+    CooldownRemaining: '&6{value1} &dseconds remaining.'
+    Heal: '&2{attacker} &ahealed you for &2{value1} &aHealth.'
+    Damaged: '      &dYou hit &r{defender} &dfor &6{value2} &ddamage.'
+RepairMessages:
+  RepairSuccessfulMaterial: '&aSuccessfully repaired &2{value1}&c.'
+  RepairSuccessfulCurrency: '&aSuccessfully repaired &2{value1} &afor &2{value2} Dollars&a.'
+  DoesntNeedRepair: '&4{value1} &cdoesn''t need repairing.'
+  NotEnoughMoney: '&cYou need &4{value2} Dollars &cto repair &4{value1}&c.'
+  NotEnoughLeather: '&cNot enough Leather to repair &4{value1}&c.'
+  NotEnoughWood: '&cNot enough Wooden Planks to repair &4{value1}&c.'
+  NotEnoughCobblestone: '&cNot enough Cobblestone to repair &4{value1}&c.'
+  NotEnoughIron: '&cNot enough Iron Ingots to repair &4{value1}&c.'
+  NotEnoughGold: '&cNot enough Gold Ingots to repair &4{value1}&c.'
+  NotEnoughDiamond: '&cNot enough Diamonds to repair &4{value1}&c.'
+  NotEnoughSticks: '&cNot enough Sticks to repair &4{value1}&c.'
+  NotEnoughFlint: '&cNot enough Flint to repair &4{value1}&c.'
+  NotEnoughString: '&cNot enough String to repair &4{value1}&c.'
+  NotEnoughFishingRod: '&cYou need a Fishing Rod to repair &4{value1}&c.'
+  NotEnoughCarrots: '&cYou need a Carrot to repair &4{value1}&c.'
+UpgradeMessages:
+  UpgradeSuccessful: '&2{value1} &ahas been upgraded.'
+  UpgradeCapReached: '&2{value1} &ahas reached the cap and can no longer be upgraded.'
+SellMessages:
+  SellSuccessful: '&aYou sold &2{value1} &afor &2{value2} Dollars&a.'
+  UnableToSell: '&cYou are unable to sell &2{value1}&c.'
+  NoItemInHand: '&cYour hand is empty.'
+ItemType:
+  Tool:
+    Sword: Sword
+    Pickaxe: Pickaxe
+    Axe: Axe
+    Spade: Spade
+    Hoe: Hoe
+    Bow: Bow
+    Stick: Stick
+    Blaze_Rod: Blaze Rod
+    String: String
+  Armour:
+    Skull_Helmet: Helmet
+    Helmet: Helmet
+    Chestplate: Chestplate
+    Leggings: Leggings
+    Boots: Boots
+Item:
+  Looted: '&bYou looted &6{value1}&b!'
