@@ -1,0 +1,31 @@
+gui:
+  title: '&e&lQuest Book'
+  party: '&eParty Menu'
+button:
+  open: '&7> Click to open'
+  back:
+    party: '&7> Click to go back to the Party Menu'
+    quests: '&7> Click to go back to the Quest Menu'
+    general: '&c< Back'
+quests:
+  locked: '&4&lLOCKED'
+  tasks_completed: ' Tasks completed'
+  state:
+    cooldown: '&e&lON COOLDOWN'
+    completed: '&2&lCOMPLETED'
+    reward_claimable: '&5&lUNCLAIMED REWARD'
+    reward_claim: '&5&lCLAIM REWARD'
+  display:
+    cooldown: '&7Cooldown'
+    monetary: '&7Monetary Reward'
+    exp: '&7XP Reward'
+    rewards: '&rRewards'
+category:
+  desc:
+    total: ' Quests in total'
+    completed: ' completed Quests'
+    available: ' Quests available for completion'
+    cooldown: ' Quests are on Cooldown'
+    claimable_reward: ' Quests with unclaimed Reward'
+task:
+  locked: '&4&lLOCKED'
