@@ -7,7 +7,7 @@ languageFile: language-en
 usingMcMMO: false
 usingBarAPI: true
 usingBossBarAPI: true
-usingMythicMobs: false
+usingMythicMobs: true
 includeOffHandDamage: false
 dropCustomILSLoot: true
 ILSLootFromNaturalSpawnsOnly: true
