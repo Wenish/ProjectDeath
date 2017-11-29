@@ -104,7 +104,7 @@ mobs:
     block-enderdragon-portal-creation: false
     block-fireball-explosions: false
     block-fireball-block-damage: true
-    anti-wolf-dumbness: false
+    anti-wolf-dumbness: true
     allow-tamed-spawns: true
     disable-enderman-griefing: true
     disable-snowman-trails: false
@@ -148,10 +148,10 @@ weather:
 dynamics:
     disable-mushroom-spread: false
     disable-ice-melting: true
-    disable-snow-melting: true
+    disable-snow-melting: false
     disable-snow-formation: false
     disable-ice-formation: false
-    disable-leaf-decay: false
+    disable-leaf-decay: true
     disable-grass-growth: false
     disable-mycelium-spread: false
     disable-vine-growth: true

@@ -1,0 +1,27 @@
+'1':
+  uniqueId: 3714de37-9afc-4f77-ae9a-4faba984ac35
+  name: Swag Shop
+  world: world
+  x: 180
+  y: 81
+  z: 251
+  type: admin
+  object: villager
+  uuid: 4afb8b81-9c06-4f51-9db3-ab8c85d097d6
+  prof: FARMER
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_NUGGET
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: WOOD_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: Sword of Swag
+          lore:
+          - 'Health: +25'
+          ItemFlags:
+          - HIDE_ATTRIBUTES

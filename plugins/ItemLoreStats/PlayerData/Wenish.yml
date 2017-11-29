@@ -1,7 +1,7 @@
 extra:
-  logoutHealth: 34
-  maxHealth: 44
-  hunger: 17
-  xp: 0.73333347
-  level: 4
+  logoutHealth: 75
+  maxHealth: 75
+  hunger: 20
+  xp: 0.058823634
+  level: 5
   combatLogVisible: false
