@@ -1,0 +1,21 @@
+Item:
+  ==: org.bukkit.inventory.ItemStack
+  type: BOW
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §d§lSlaying Thrustbow
+    lore:
+    - ''
+    - '§bWeapon Speed: §cSlow'
+    - '§bDamage: §a+§268§2-§293'
+    - '§bCrit Chance: §24.0§a%'
+    - '§bCrit Damage: §212.0§a%'
+    - '§eReflect: §26.0§a%'
+    - '§cIgnition: §27.0§a%'
+    - '§5Harming: §23.0§a%'
+    - ''
+    - '§6Durability: 350/350'
+    - ''
+    - '§3Level: 1'
+    - §3Bound to Wenish

@@ -1,0 +1,11 @@
+id: 0
+name: Starter
+item:
+  ==: org.bukkit.inventory.ItemStack
+  type: BOOK_AND_QUILL
+  meta:
+    ==: ItemMeta
+    meta-type: BOOK
+    display-name: Starter
+permission: ''
+hidden: false

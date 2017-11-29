@@ -1,0 +1,11 @@
+Item:
+  ==: org.bukkit.inventory.ItemStack
+  type: WOOD_SWORD
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: Sword of Swag
+    lore:
+    - 'Health: +25'
+    ItemFlags:
+    - HIDE_ATTRIBUTES

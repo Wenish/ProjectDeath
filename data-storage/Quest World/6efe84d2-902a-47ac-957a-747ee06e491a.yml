@@ -1,2 +1,12 @@
 party:
-  associated: 6efe84d2-902a-47ac-957a-747ee06e491a
+  members: []
+  pending-requests: []
+'0':
+  '0':
+    status: FINISHED
+    mission:
+      '9':
+        progress: 1
+    finished: true
+  '1':
+    status: AVAILABLE

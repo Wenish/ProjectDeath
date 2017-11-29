@@ -1,0 +1,42 @@
+id: 1
+category: 0
+cooldown: '0'
+name: Kill Mobs
+item:
+  ==: org.bukkit.inventory.ItemStack
+  type: BOOK_AND_QUILL
+  meta:
+    ==: ItemMeta
+    meta-type: BOOK
+    display-name: Kill Mobs
+rewards:
+  money: 0
+  xp: 0
+  commands: []
+permission: ''
+disable-parties: false
+in-order: false
+auto-claim: false
+world-blacklist: []
+min-party-size: 1
+missions:
+  '9':
+    type: KILL
+    amount: 2
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: MONSTER_EGG
+      damage: 56
+    entity: GHAST
+    location:
+      x: -95.0
+      y: 87.0
+      z: 246.0
+      pitch: 0.0
+      yaw: 0.0
+      world: world
+    name: Mob
+    display-name: Wenish
+    timeframe: '0'
+    reset-on-death: true
+    lore: ''

@@ -1,0 +1,53 @@
+id: 0
+category: 0
+cooldown: '0'
+name: Whats up
+item:
+  ==: org.bukkit.inventory.ItemStack
+  type: BOOK_AND_QUILL
+  meta:
+    ==: ItemMeta
+    meta-type: BOOK
+    display-name: Whats up
+rewards:
+  money: 0
+  xp: 0
+  commands: []
+  items:
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      type: WOOD_SWORD
+      damage: 1
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        display-name: Sword of Swag
+        lore:
+        - 'Health: +25'
+        ItemFlags:
+        - HIDE_ATTRIBUTES
+permission: ''
+disable-parties: false
+in-order: false
+auto-claim: false
+world-blacklist: []
+min-party-size: 1
+missions:
+  '9':
+    type: SUBMIT
+    amount: 1
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: STONE
+    entity: PLAYER
+    location:
+      x: -4.0
+      y: 102.0
+      z: 405.0
+      pitch: 0.0
+      yaw: 0.0
+      world: world
+    name: ''
+    timeframe: '0'
+    reset-on-death: false
+    lore: ''
