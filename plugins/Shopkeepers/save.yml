@@ -7,7 +7,7 @@
   z: 251
   type: admin
   object: villager
-  uuid: 70fda7e5-c871-498f-9218-483887cea6ba
+  uuid: 86c83bfe-dc49-4a56-8f74-d678fa0da54e
   prof: FARMER
   recipes:
     '0':
@@ -25,3 +25,31 @@
           - 'Health: +25'
           ItemFlags:
           - HIDE_ATTRIBUTES
+'2':
+  uniqueId: b0dc84b6-2dfe-4c82-bd8e-45816f668d00
+  name: Mr Bread
+  world: world
+  x: -123
+  y: 81
+  z: 134
+  type: admin
+  object: villager
+  uuid: 5b414e19-0e56-405d-a8aa-49f2018fb06e
+  prof: BLACKSMITH
+  recipes:
+    '0':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_NUGGET
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: BREAD
+        amount: 8
+    '1':
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        type: WHEAT
+        amount: 30
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        type: GOLD_NUGGET

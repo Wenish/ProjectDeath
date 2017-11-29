@@ -1,5 +1,5 @@
 stat:
-  LOGIN: '2'
-  DEATHS: '1'
+  LOGIN: '3'
+  DEATHS: '2'
   PLAYER_KILLSTREAK: '0'
-  BLOCKS_BROKEN: '1'
+  BLOCKS_BROKEN: '3'

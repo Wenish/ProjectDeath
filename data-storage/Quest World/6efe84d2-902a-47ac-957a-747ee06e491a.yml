@@ -10,3 +10,6 @@ party:
     finished: true
   '1':
     status: AVAILABLE
+    mission:
+      '9':
+        progress: 0
