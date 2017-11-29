@@ -59,7 +59,7 @@ build-permission-nodes:
     enable: false
     deny-message: '&eSorry, but you are not permitted to do that here.'
 event-handling:
-    block-entity-spawns-with-untraceable-cause: false
+    block-entity-spawns-with-untraceable-cause: true
     interaction-whitelist: []
     emit-block-use-at-feet: []
 protection:
@@ -86,7 +86,7 @@ physics:
     disable-water-damage-blocks: []
 ignition:
     block-tnt: false
-    block-tnt-block-damage: false
+    block-tnt-block-damage: true
     block-lighter: false
 fire:
     disable-lava-fire-spread: true
@@ -95,26 +95,26 @@ fire:
     lava-spread-blocks: []
 mobs:
     block-creeper-explosions: false
-    block-creeper-block-damage: false
+    block-creeper-block-damage: true
     block-wither-explosions: false
-    block-wither-block-damage: false
+    block-wither-block-damage: true
     block-wither-skull-explosions: false
-    block-wither-skull-block-damage: false
-    block-enderdragon-block-damage: false
+    block-wither-skull-block-damage: true
+    block-enderdragon-block-damage: true
     block-enderdragon-portal-creation: false
     block-fireball-explosions: false
-    block-fireball-block-damage: false
+    block-fireball-block-damage: true
     anti-wolf-dumbness: false
     allow-tamed-spawns: true
-    disable-enderman-griefing: false
+    disable-enderman-griefing: true
     disable-snowman-trails: false
-    block-painting-destroy: false
-    block-item-frame-destroy: false
-    block-armor-stand-destroy: false
+    block-painting-destroy: true
+    block-item-frame-destroy: true
+    block-armor-stand-destroy: true
     block-plugin-spawning: true
     block-above-ground-slimes: false
     block-other-explosions: false
-    block-zombie-door-destruction: false
+    block-zombie-door-destruction: true
     block-creature-spawn: []
 player-damage:
     disable-fall-damage: false
@@ -134,8 +134,8 @@ chest-protection:
     enable: false
     disable-off-check: false
 crops:
-    disable-creature-trampling: false
-    disable-player-trampling: false
+    disable-creature-trampling: true
+    disable-player-trampling: true
 weather:
     prevent-lightning-strike-blocks: []
     disable-lightning-strike-fire: false
@@ -147,14 +147,14 @@ weather:
     always-thundering: false
 dynamics:
     disable-mushroom-spread: false
-    disable-ice-melting: false
-    disable-snow-melting: false
+    disable-ice-melting: true
+    disable-snow-melting: true
     disable-snow-formation: false
     disable-ice-formation: false
     disable-leaf-decay: false
     disable-grass-growth: false
     disable-mycelium-spread: false
-    disable-vine-growth: false
+    disable-vine-growth: true
     disable-soil-dehydration: false
     snow-fall-blocks: []
 blacklist:
