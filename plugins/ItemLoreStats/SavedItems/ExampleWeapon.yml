@@ -1,0 +1,36 @@
+Item:
+  ==: org.bukkit.inventory.ItemStack
+  type: IRON_SWORD
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: §d§lExample Weapon
+    lore:
+    - ''
+    - '§bWeapon Speed: §cSlow'
+    - 'Armour: 1%'
+    - 'Dodge: 1%'
+    - 'Block: 1%'
+    - 'Crit Chance: 1%'
+    - 'Crit Damage: 1%'
+    - 'Damage: 2'
+    - 'Health: +1'
+    - 'Health Regen: 1%'
+    - 'Life Steal: 1%'
+    - 'Ignition: 1%'
+    - 'Reflect: 1%'
+    - 'Slow: 1%'
+    - 'Poison: 1%'
+    - 'Wither: 1%'
+    - 'Harming: 1%'
+    - 'Blind: 1%'
+    - 'Speed: 1%'
+    - 'XP Bonus: 1%'
+    - 'PvE Dmg Modifier: +1'
+    - 'PvP Dmg Modifier: -1'
+    - 'Class Tank, Druide, Ranger, Ninja'
+    - 'Level: 1'
+    - '§6Durability: 350/350'
+    - ''
+    - '§3Level: 1'
+    - §3Bound to Wenish
