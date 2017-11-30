@@ -21,7 +21,7 @@ baseHealthRegen: 2
 baseMovementSpeed: 0.2
 baseCritDamage: 50
 healthScale: 20
-levelCap: 9999
+levelCap: 40
 displayDurabilityWarnings:
   enableAbove75%DurabilityWarning: true
   enableAbove50%DurabilityWarning: true
