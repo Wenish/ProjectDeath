@@ -1,0 +1,11 @@
+id: 10
+name: Chapter 2
+item:
+  ==: org.bukkit.inventory.ItemStack
+  type: PAPER
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: Chapter 2
+permission: ''
+hidden: false
