@@ -13,3 +13,11 @@ party:
     mission:
       '9':
         progress: 0
+'8':
+  '0':
+    status: AVAILABLE
+    mission:
+      '9':
+        progress: 0
+    finished: true
+    cooldown: 2017-11-30-18-11

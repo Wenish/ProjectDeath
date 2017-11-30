@@ -1,0 +1,11 @@
+id: 8
+name: Playtime
+item:
+  ==: org.bukkit.inventory.ItemStack
+  type: WATCH
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    display-name: Playtime
+permission: ''
+hidden: false
