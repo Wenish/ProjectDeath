@@ -15,9 +15,9 @@ party:
         progress: 0
 '8':
   '0':
-    status: AVAILABLE
+    status: ON_COOLDOWN
     mission:
       '9':
         progress: 0
     finished: true
-    cooldown: 2017-12-01-21-49
+    cooldown: 2017-12-01-23-01
