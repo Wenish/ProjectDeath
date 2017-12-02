@@ -1,11 +1,11 @@
 id: 11
-name: Chapter 3
+name: '&rChapter 3: &4Fire'
 item:
   ==: org.bukkit.inventory.ItemStack
   type: PAPER
   meta:
     ==: ItemMeta
     meta-type: UNSPECIFIC
-    display-name: Chapter 3
+    display-name: '§rChapter 3: §4Fire'
 permission: ''
 hidden: false

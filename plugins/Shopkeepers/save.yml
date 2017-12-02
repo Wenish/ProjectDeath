@@ -7,7 +7,7 @@
   z: 251
   type: admin
   object: villager
-  uuid: 03aca3c4-768d-452c-9525-0112697d90f7
+  uuid: 692205f5-1071-4778-ae09-934ccd87fae7
   prof: FARMER
   recipes:
     '0':
@@ -34,7 +34,7 @@
   z: 134
   type: admin
   object: villager
-  uuid: e54e2215-094a-42f7-bef3-3e00d521388c
+  uuid: af2195e3-605d-4e7b-a1a5-d9d28f2fc19b
   prof: BLACKSMITH
   recipes:
     '0':
