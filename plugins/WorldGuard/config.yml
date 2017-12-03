@@ -151,7 +151,7 @@ dynamics:
     disable-snow-melting: false
     disable-snow-formation: false
     disable-ice-formation: false
-    disable-leaf-decay: true
+    disable-leaf-decay: false
     disable-grass-growth: false
     disable-mycelium-spread: false
     disable-vine-growth: true
