@@ -7,16 +7,16 @@ lastlocation:
   pitch: 6.7
 lastAccountName: Wenish
 timestamps:
-  login: 1512306018455
+  login: 1512323713696
   lastteleport: 1511976832415
-  logout: 1512308578041
+  logout: 1512327167269
 ipAddress: 127.0.0.1
 afk: false
 logoutlocation:
   world: world
-  x: -65.08583877678129
-  y: 83.98076037405504
-  z: 149.315836762897
-  yaw: 266.16125
-  pitch: -8.999883
+  x: -101.99750349450196
+  y: 83.5
+  z: 144.30525417301786
+  yaw: -315.53308
+  pitch: 9.599989
 godmode: true
