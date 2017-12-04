@@ -1,0 +1,16 @@
+'8':
+  '0':
+    status: ON_COOLDOWN
+    mission:
+      '9':
+        progress: 0
+    finished: true
+    cooldown: 2017-12-04-23-58
+'0':
+  '0':
+    status: AVAILABLE
+  '1':
+    status: AVAILABLE
+    mission:
+      '9':
+        progress: 0

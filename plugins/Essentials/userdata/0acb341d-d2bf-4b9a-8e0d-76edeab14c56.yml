@@ -1,0 +1,23 @@
+lastAccountName: Hydish
+timestamps:
+  login: 1512419601646
+  lastteleport: 1512427908770
+  logout: 1512428287991
+ipAddress: 85.6.175.187
+godmode: false
+afk: false
+socialspy: true
+lastlocation:
+  world: world
+  x: -73.81680366988063
+  y: 75.67647087614428
+  z: 111.34506746589571
+  yaw: -124.201416
+  pitch: 29.55002
+logoutlocation:
+  world: world
+  x: -96.31216158052894
+  y: 80.16454788220375
+  z: 168.64866469079033
+  yaw: -20.699524
+  pitch: -14.249946
